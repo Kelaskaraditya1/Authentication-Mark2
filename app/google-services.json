@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "980098926947",
+    "project_id": "authentication-mark2",
+    "storage_bucket": "authentication-mark2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980098926947:android:f917db8f0399db2db22b56",
+        "android_client_info": {
+          "package_name": "com.starkindustries.authentication_mark2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980098926947-9kigt9rp5d7ljt7l7597tugbs40jmqof.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.starkindustries.authentication_mark2",
+            "certificate_hash": "2ad942b31b611fc40f848f9626942b0a9b888309"
+          }
+        },
+        {
+          "client_id": "980098926947-vsemqta7onegbnmc4lp72cevt9ods71p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChZtDf9ZwRlon28iVxPki8HrxTB6al_pA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980098926947-vsemqta7onegbnmc4lp72cevt9ods71p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
